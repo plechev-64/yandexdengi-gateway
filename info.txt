@@ -1,0 +1,8 @@
+Name: Яндекс.Деньги Gateway;
+Parent Addon: user-balance;
+Version: 1.2.0;
+ItemID: 17293;
+Support Core: 16.24.0;
+Description: Подключение сайта к платежной системе Яндекс.Деньги без оформления ИП или ООО;
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
